@@ -1,7 +1,3 @@
-# Rental Demo Website
-
-## 🔗 [**Live Demo**](https://kanan-amir.netlify.app/)
-
 ## How to start?
 
 ```
